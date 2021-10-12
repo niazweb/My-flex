@@ -1,0 +1,82 @@
+.name{
+    color: darkred;
+    text-align: center;
+}
+
+
+.ch-1{
+    width:100px;
+    height: 100px;
+    background: red;
+    border: 2px solid black;
+}
+
+.ch-2{
+    width:100px;
+    height: 100px;
+    background: lightblue;
+    border: 2px solid blue;
+}
+.ch-3{
+    width:100px;
+    height: 100px;
+    background: orange;
+    border: 2px solid orangered;
+}
+
+.ch-4{
+    width:100px;
+    height: 100px;
+    background: pink;
+    border: 2px solid purple;
+}
+.ch-5{
+    width:100px;
+    height: 100px;
+    background: yellow;
+    border: 2px solid black;
+}
+.ch-6{
+    width:100px;
+    height: 100px;
+    background:brown;
+    border: 2px solid wheat;
+}
+.ch-7{
+    width:100px;
+    height: 100px;
+    background:green;
+    border: 2px solid black;
+}
+.fa-1{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.fa-2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.fa-3{
+    display: flex;
+    flex-direction: column;
+}
+.fa-4{
+    display: flex;
+    justify-content: center;
+}
+.fa-5{
+    display:flex;
+    justify-content: space-around;
+}
+.fa-6{
+    display: flex;
+    justify-content:space-between;
+}
+.fa-7{
+    display: flex;
+    justify-content: space-evenly;
+}
